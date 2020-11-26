@@ -14,7 +14,7 @@ Our codes are using PyTorch 1.3.1, torchvision 0.4.2 (python 3.7.6). The experim
 
 > python train_source.py
 
-2. Then adapting source model to target domain, with only the unlabeled target data:
+2. Then adapting source model to target domain, with only the unlabeled target data.
 
 > python train_target.py
 
