@@ -5,7 +5,7 @@ Code (pytorch) for ['Unsupervised Domain Adaptation without Source Data by Casti
 ### Preliminary
 You need to download the [VisDA](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification) dataset.
 
-Our codes are using PyTorch 1.3.1, torchvision 0.4.2 (python 3.7.6). The experiments are on one GPU (RTX6000).
+Our codes are using PyTorch 1.3.1, torchvision 0.4.2 (python 3.7.6). The experiments are conducted on one GPU (RTX6000).
 
 
 ### Training and evaluation
