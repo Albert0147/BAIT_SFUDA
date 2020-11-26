@@ -1,11 +1,14 @@
 # BAIT_SFUDA
 
-Code for ['Unsupervised Domain Adaptation without Source Data by Casting a BAIT'](https://arxiv.org/abs/2010.12427)
+Code for ['Unsupervised Domain Adaptation without Source Data by Casting a BAIT'](https://arxiv.org/abs/2010.12427) on VisDA.
 
+
+
+### Results in paper
+![VisDA](/img/visda.png)
 
 
 ### Evaluation and training
-
 
 First training model on the source data.
 
