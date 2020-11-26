@@ -17,5 +17,5 @@ Then adapting source model to target domain, with only the unlabeled target data
 
 ### Acknowledgement
 
-The codes are borrowed from [SHOT (ICML 2020, also source-free)](https://github.com/tim-learn/SHOT).
+The codes are based on [SHOT (ICML 2020, also source-free)](https://github.com/tim-learn/SHOT).
 
