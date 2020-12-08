@@ -22,6 +22,7 @@ Our codes are using PyTorch 1.3.1, torchvision 0.4.2 (python 3.7.6). The experim
 ### Results in paper
 ![VisDA](/img/visda.png)
 
+**The result of SHOT is from the ICML [camera-ready version](https://proceedings.icml.cc/static/paper_files/icml/2020/194-Paper.pdf)**
 
 ### Acknowledgement
 
