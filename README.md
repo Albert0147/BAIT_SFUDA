@@ -1,6 +1,6 @@
 # BAIT_SFUDA
 
-Code (pytorch) for ['Unsupervised Domain Adaptation without Source Data by Casting a BAIT'](https://arxiv.org/abs/2010.12427) on VisDA. **If for Office-Home, please use learning rate 10 times larger.**
+Code (pytorch) for ['Unsupervised Domain Adaptation without Source Data by Casting a BAIT'](https://arxiv.org/abs/2010.12427) on VisDA. **If for Office-Home and Office-31, please use learning rate 10 times larger.**
 
 ### Preliminary
 You need to download the [VisDA](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification) dataset.
