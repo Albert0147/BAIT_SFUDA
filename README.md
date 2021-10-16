@@ -2,6 +2,8 @@
 
 Code (pytorch) for ['Unsupervised Domain Adaptation without Source Data by Casting a BAIT'](https://arxiv.org/abs/2010.12427) on VisDA. **If for Office-Home and Office-31, please use learning rate 10 times larger.**
 
+**TL;DR: We extend MCD to source-free domain adaptation.**
+
 ### Preliminary
 You need to download the [VisDA](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification) dataset.
 
